@@ -6,12 +6,6 @@
             "email": "luciano.goncalves@facestore.pt"
         }
     ],
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/facestorept/api-sdk-php.git"
-        }
-    ],
     "require": {
         "facestorept/api-sdk-php": "*@dev"
     }
